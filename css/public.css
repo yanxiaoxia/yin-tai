@@ -1,0 +1,21 @@
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,
+button,textarea,p,th,td{
+	margin: 0;
+	padding:0;
+	list-style: none;
+}
+a{
+	text-decoration: none;
+}
+img{
+	border:none;
+}
+div{
+	display: block;
+}
+s{
+	text-decoration: line-through;
+}
+b{
+	font-weight: bold;
+}
